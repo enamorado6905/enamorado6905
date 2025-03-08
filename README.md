@@ -16,29 +16,10 @@ I am a Senior Software Engineer with extensive experience in developing robust a
 
 ## Experience
 
-### Senior Software Engineer at niikiis
-
-- **Duration:** May 2023 - Nov 2024 (1 yr 7 mos)
-- **Location:** United States (Remote)
-- **Description:** Developed and maintained robust and scalable applications. Focused on team collaboration and drove projects to successful completion.
-
-### Senior Software Engineer at Informage Studios S.L.U.
-
-- **Duration:** Aug 2022 - Jun 2023 (11 mos)
-- **Location:** Valencian Community, Spain (Remote)
-- **Description:** Worked on software deployment and Node.js projects. Contributed to various projects with a focus on back-end development.
-
-### Senior Software Engineer at BSE-America-Tech
-
-- **Duration:** Jan 2020 - Sep 2022 (2 yrs 9 mos)
-- **Location:** Panama, Panama (Remote)
-- **Description:** Involved in software deployment and Node.js projects. Worked on multiple projects focusing on deploying and maintaining software solutions.
-
-### Junior Software Engineer at Universidad de las Ciencias Informáticas
-
-- **Duration:** Sep 2018 - Oct 2019 (1 yr 2 mos)
-- **Location:** Cuba (Remote)
-- **Description:** Gained initial experience in software engineering and contributed to various projects as a junior developer.
+- Senior Software Engineer at niikiis
+- Senior Software Engineer at Informage Studios S.L.U.
+- Senior Software Engineer at BSE-America-Tech
+- Junior Software Engineer at Universidad de las Ciencias Informáticas
 
 ## Certifications
 
