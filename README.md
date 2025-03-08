@@ -14,18 +14,6 @@ I am a Senior Software Engineer with extensive experience in developing robust a
 - Microservices architecture ![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?style=flat&logo=microgenetics&logoColor=white)
 - Monolithic architecture ![Monolithic](https://img.shields.io/badge/-Monolithic-1976D2?style=flat&logo=monogram&logoColor=white)
 
-## Experience
-
-- Senior Software Engineer at niikiis
-- Senior Software Engineer at Informage Studios S.L.U.
-- Senior Software Engineer at BSE-America-Tech
-- Junior Software Engineer at Universidad de las Ciencias Informáticas
-
-## Certifications
-
-- Professional Scrum Product Owner I & II (PSPO I & II) - Scrum.org
-- MongoDB Certified Developer Associate Exam – MongoDB, Inc.
-
 ## GitHub Stats
 
 ![Orlando Rosabal's GitHub stats](https://github-readme-stats.vercel.app/api?username=enamorado6905&show_icons=true&theme=radical)
@@ -33,13 +21,6 @@ I am a Senior Software Engineer with extensive experience in developing robust a
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enamorado6905&layout=compact&theme=radical)
-
-## Stay in touch
-
-- Author - [Orlando Enamorado Rosabal](https://bold.pro/my/orlando-rosabal/777r)
-- Website - [Website](https://bold.pro/my/orlando-rosabal/777r)
-- Linkedin - [@orlando6905](https://linkedin.com/in/orlando6905)
-- Github - [@enamorado6905](https://github.com/enamorado6905)
 
 ---
 
