@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Orlando! 👋
 
-<!--
-**enamorado6905/enamorado6905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub profile
 
-Here are some ideas to get you started:
+I am a Senior Software Engineer with extensive experience in developing robust and scalable applications. I have a strong focus on team collaboration, driving projects to successful completion, and adapting to evolving requirements. I am proficient in multiple programming languages, frameworks, and tools. I value delivering high-quality results and fostering a productive work environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and Tools
+
+- Programming Languages: ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- Frameworks and Libraries: ![NestJs](https://img.shields.io/badge/-NestJs-E0234E?style=flat&logo=nestjs&logoColor=white) ![NodeJs](https://img.shields.io/badge/-NodeJs-339933?style=flat&logo=node.js&logoColor=white) ![ExpressJs](https://img.shields.io/badge/-ExpressJs-000000?style=flat&logo=express&logoColor=white) ![FeathersJs](https://img.shields.io/badge/-FeathersJs-92A8D1?style=flat&logo=feathersjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+- Databases: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- Development Tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- Cloud Services: ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white) ![Amazon DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white) ![Amazon Lambda](https://img.shields.io/badge/-Amazon%20Lambda-FF9900?style=flat&logo=amazon-lambda&logoColor=white)
+- Microservices architecture ![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?style=flat&logo=microgenetics&logoColor=white)
+- Monolithic architecture ![Monolithic](https://img.shields.io/badge/-Monolithic-1976D2?style=flat&logo=monogram&logoColor=white)
+
+## Experience
+
+### Senior Software Engineer at niikiis
+
+- **Duration:** May 2023 - Nov 2024 (1 yr 7 mos)
+- **Location:** United States (Remote)
+- **Description:** Developed and maintained robust and scalable applications. Focused on team collaboration and drove projects to successful completion.
+
+### Senior Software Engineer at Informage Studios S.L.U.
+
+- **Duration:** Aug 2022 - Jun 2023 (11 mos)
+- **Location:** Valencian Community, Spain (Remote)
+- **Description:** Worked on software deployment and Node.js projects. Contributed to various projects with a focus on back-end development.
+
+### Senior Software Engineer at BSE-America-Tech
+
+- **Duration:** Jan 2020 - Sep 2022 (2 yrs 9 mos)
+- **Location:** Panama, Panama (Remote)
+- **Description:** Involved in software deployment and Node.js projects. Worked on multiple projects focusing on deploying and maintaining software solutions.
+
+### Junior Software Engineer at Universidad de las Ciencias Informáticas
+
+- **Duration:** Sep 2018 - Oct 2019 (1 yr 2 mos)
+- **Location:** Cuba (Remote)
+- **Description:** Gained initial experience in software engineering and contributed to various projects as a junior developer.
+
+## Certifications
+
+- Professional Scrum Product Owner I & II (PSPO I & II) - Scrum.org
+- MongoDB Certified Developer Associate Exam – MongoDB, Inc.
+
+## GitHub Stats
+
+![Orlando Rosabal's GitHub stats](https://github-readme-stats.vercel.app/api?username=enamorado6905&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enamorado6905&layout=compact&theme=radical)
+
+## Stay in touch
+
+- Author - [Orlando Enamorado Rosabal](https://bold.pro/my/orlando-rosabal/777r)
+- Website - [Website](https://bold.pro/my/orlando-rosabal/777r)
+- Linkedin - [@orlando6905](https://linkedin.com/in/orlando6905)
+- Github - [@enamorado6905](https://github.com/enamorado6905)
+
+---
+
+Thank you for visiting my GitHub profile! 😊
